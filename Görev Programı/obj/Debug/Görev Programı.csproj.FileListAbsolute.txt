@@ -1,0 +1,10 @@
+C:\Users\Taha Yazğan\source\repos\Görev Programı\Görev Programı\bin\Debug\Görev Programı.exe.config
+C:\Users\Taha Yazğan\source\repos\Görev Programı\Görev Programı\bin\Debug\Görev Programı.exe
+C:\Users\Taha Yazğan\source\repos\Görev Programı\Görev Programı\bin\Debug\Görev Programı.pdb
+C:\Users\Taha Yazğan\source\repos\Görev Programı\Görev Programı\obj\Debug\Görev_Programı.Form1.resources
+C:\Users\Taha Yazğan\source\repos\Görev Programı\Görev Programı\obj\Debug\Görev_Programı.Properties.Resources.resources
+C:\Users\Taha Yazğan\source\repos\Görev Programı\Görev Programı\obj\Debug\Görev Programı.csproj.GenerateResource.cache
+C:\Users\Taha Yazğan\source\repos\Görev Programı\Görev Programı\obj\Debug\Görev Programı.csproj.CoreCompileInputs.cache
+C:\Users\Taha Yazğan\source\repos\Görev Programı\Görev Programı\obj\Debug\Görev Programı.exe
+C:\Users\Taha Yazğan\source\repos\Görev Programı\Görev Programı\obj\Debug\Görev Programı.pdb
+C:\Users\Taha Yazğan\source\repos\Görev Programı\Görev Programı\obj\Debug\Görev Programı.csproj.AssemblyReference.cache
